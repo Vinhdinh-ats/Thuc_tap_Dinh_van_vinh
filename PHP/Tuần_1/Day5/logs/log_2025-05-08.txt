@@ -1,0 +1,2 @@
+[2025-05-08 11:44:11] IP: ::1 | Action: User admin logged in
+[2025-05-08 11:44:32] IP: ::1 | Action: User admin logged out
