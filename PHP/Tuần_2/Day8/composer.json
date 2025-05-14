@@ -1,0 +1,12 @@
+{
+     "name": "xyz-bank/account-management",
+     "description": "Bank account and transaction management system",
+     "autoload": {
+         "psr-4": {
+             "XYZBank\\": "src/"
+         }
+     },
+     "require": {
+         "php": ">=7.4"
+     }
+ }
