@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<brands>
+  <category name="Điện tử">
+    <brand>Samsung</brand>
+    <brand>Apple</brand>
+    <brand>Sony</brand>
+    <brand>LG</brand>
+  </category>
+  <category name="Thời trang">
+    <brand>Gucci</brand>
+    <brand>Zara</brand>
+    <brand>H&M</brand>
+    <brand>Uniqlo</brand>
+  </category>
+  <category name="Gia dụng">
+    <brand>Panasonic</brand>
+    <brand>Sharp</brand>
+    <brand>Philips</brand>
+  </category>
+</brands>
