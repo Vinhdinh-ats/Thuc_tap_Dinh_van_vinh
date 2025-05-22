@@ -1,0 +1,15 @@
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\obj\Debug\net8.0\Day_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\obj\Debug\net8.0\Day_4.AssemblyInfoInputs.cache
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\obj\Debug\net8.0\Day_4.AssemblyInfo.cs
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\obj\Debug\net8.0\Day_4.csproj.CoreCompileInputs.cache
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\obj\Debug\net8.0\Day_4.sourcelink.json
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\bin\Debug\net8.0\Day_4.exe
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\bin\Debug\net8.0\Day_4.deps.json
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\bin\Debug\net8.0\Day_4.runtimeconfig.json
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\bin\Debug\net8.0\Day_4.dll
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\bin\Debug\net8.0\Day_4.pdb
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\obj\Debug\net8.0\Day_4.dll
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\obj\Debug\net8.0\refint\Day_4.dll
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\obj\Debug\net8.0\Day_4.pdb
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\obj\Debug\net8.0\Day_4.genruntimeconfig.cache
+C:\laragon\www\Thuc_tap\C#\Tuan_1\Day_4\obj\Debug\net8.0\ref\Day_4.dll
