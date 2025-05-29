@@ -1,0 +1,140 @@
+{
+  "PayrollSystem.dll": {
+    "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day_9\\PayrollSystem\\Models\\Employee.cs": {
+      "PayrollSystem.Employee": {
+        "System.Int32 PayrollSystem.Employee::get_Id()": {
+          "Lines": {
+            "5": 5
+          },
+          "Branches": []
+        },
+        "System.String PayrollSystem.Employee::get_Name()": {
+          "Lines": {
+            "6": 10
+          },
+          "Branches": []
+        },
+        "System.Decimal PayrollSystem.Employee::get_BaseSalary()": {
+          "Lines": {
+            "7": 13
+          },
+          "Branches": []
+        },
+        "System.Decimal PayrollSystem.Employee::get_Bonus()": {
+          "Lines": {
+            "8": 12
+          },
+          "Branches": []
+        },
+        "System.Decimal PayrollSystem.Employee::get_Deduction()": {
+          "Lines": {
+            "9": 12
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day_9\\PayrollSystem\\Services\\PayrollService.cs": {
+      "PayrollSystem.PayrollService": {
+        "System.Decimal PayrollSystem.PayrollService::GetNetSalary(System.Int32)": {
+          "Lines": {
+            "12": 2,
+            "13": 2,
+            "14": 2,
+            "15": 2,
+            "16": 1
+          },
+          "Branches": []
+        },
+        "System.Void PayrollSystem.PayrollService::.ctor(PayrollSystem.IEmployeeRepository)": {
+          "Lines": {
+            "6": 2,
+            "7": 2,
+            "8": 2,
+            "9": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day_9\\PayrollSystem\\Services\\SalaryCalculator.cs": {
+      "PayrollSystem.SalaryCalculator": {
+        "System.Decimal PayrollSystem.SalaryCalculator::CalculateNetSalary(PayrollSystem.Employee)": {
+          "Lines": {
+            "6": 7,
+            "7": 9,
+            "8": 7,
+            "10": 3,
+            "11": 3
+          },
+          "Branches": [
+            {
+              "Line": 7,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 7,
+              "Offset": 7,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            },
+            {
+              "Line": 8,
+              "Offset": 36,
+              "EndOffset": 38,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 4
+            },
+            {
+              "Line": 8,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 4
+            },
+            {
+              "Line": 8,
+              "Offset": 36,
+              "EndOffset": 74,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 8,
+              "Offset": 54,
+              "EndOffset": 74,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 8,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 8,
+              "Offset": 77,
+              "EndOffset": 90,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 3
+            }
+          ]
+        }
+      }
+    }
+  }
+}

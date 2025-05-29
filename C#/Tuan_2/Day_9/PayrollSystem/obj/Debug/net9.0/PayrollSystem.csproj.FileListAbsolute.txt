@@ -1,0 +1,12 @@
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\bin\Debug\net9.0\PayrollSystem.deps.json
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\bin\Debug\net9.0\PayrollSystem.dll
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\bin\Debug\net9.0\PayrollSystem.pdb
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\obj\Debug\net9.0\PayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\obj\Debug\net9.0\PayrollSystem.AssemblyInfoInputs.cache
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\obj\Debug\net9.0\PayrollSystem.AssemblyInfo.cs
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\obj\Debug\net9.0\PayrollSystem.csproj.CoreCompileInputs.cache
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\obj\Debug\net9.0\PayrollSystem.sourcelink.json
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\obj\Debug\net9.0\PayrollSystem.dll
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\obj\Debug\net9.0\refint\PayrollSystem.dll
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\obj\Debug\net9.0\PayrollSystem.pdb
+C:\laragon\www\Thuc_tap\C#\Tuan_2\Day_9\PayrollSystem\obj\Debug\net9.0\ref\PayrollSystem.dll

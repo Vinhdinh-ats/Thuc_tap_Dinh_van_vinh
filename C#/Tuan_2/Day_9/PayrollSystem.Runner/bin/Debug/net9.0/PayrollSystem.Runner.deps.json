@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PayrollSystem.Runner/1.0.0": {
+        "dependencies": {
+          "PayrollSystem": "1.0.0"
+        },
+        "runtime": {
+          "PayrollSystem.Runner.dll": {}
+        }
+      },
+      "PayrollSystem/1.0.0": {
+        "runtime": {
+          "PayrollSystem.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PayrollSystem.Runner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PayrollSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
