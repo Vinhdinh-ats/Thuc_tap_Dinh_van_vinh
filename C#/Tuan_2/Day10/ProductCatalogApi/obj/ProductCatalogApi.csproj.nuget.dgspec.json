@@ -1,0 +1,165 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\ProductCatalogApi\\ProductCatalogApi.csproj": {}
+  },
+  "projects": {
+    "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\ProductCatalogApi\\ProductCatalogApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\ProductCatalogApi\\ProductCatalogApi.csproj",
+        "projectName": "ProductCatalogApi",
+        "projectPath": "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\ProductCatalogApi\\ProductCatalogApi.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP360\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\ProductCatalogApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP360\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP360\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\Thuc_tap\\C#\\Tuan_2\\Day10\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP360\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
